@@ -1,7 +1,7 @@
 ### Greetings and Salutations 👋🏾
 
 <p><pre align="center">
-<strong>Aaron Miller /</strong> <a href="https://aaronnathanmiller.net">Homepage</a> / <a href="https://www.reddit.com/user/afrodidact/submitted/?sort=top">Reddit</a> / <a href="https://github.com/afrodidact">GitHub</a> / <a href="https://gist.github.com/afrodidact">Gist</a> / <a href="https://stackoverflow.com/users/15118958/afrodidact">Stack Overflow</a> / <a href="https://www.credly.com/users/aaronnathanmiller/badges">Credly</a> / <a href="www.linkedin.com/in/aaronnathanmiller">LinkedIn</a></pre></p>
+<strong>Aaron Miller /</strong> <a href="https://aaronnathanmiller.net">Homepage</a> / <a href="https://www.reddit.com/user/afrodidact/submitted/?sort=top">Reddit</a> / <a href="https://github.com/afrodidact">GitHub</a> / <a href="https://gist.github.com/afrodidact">Gist</a> / <a href="https://stackoverflow.com/users/15118958/afrodidact">Stack Overflow</a> / <a href="https://www.credly.com/users/aaronnathanmiller/badges">Credly</a> / <a href="https://www.linkedin.com/in/aaronnathanmiller">LinkedIn</a></pre></p>
 
 <img src="metrics-base.svg" align="right" width="40.5%"></img>
 
